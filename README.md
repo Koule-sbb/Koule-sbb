@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Koule-sbb
+- 👀 I’m interested in creating games
+- 🌱 I’m currently learning Python
